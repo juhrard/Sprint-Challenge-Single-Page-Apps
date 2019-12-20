@@ -27,6 +27,8 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
+Client side routing is much cleaner and quicker feeling than server side. We make less server calls as well.
+
 > Answer:
 
 ## Project Set Up

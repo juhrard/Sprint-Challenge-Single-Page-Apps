@@ -16,7 +16,9 @@ main {
 
 .grid-view {
   display: flex;
-  flex-wrap: wrap;
+  margin: 1.25rem;
+  width: 300px;
+  flex-flow: column wrap;
   justify-content: space-evenly;
 }
 
@@ -36,4 +38,11 @@ main {
 
 header h1 {
   text-align: center;
+}
+
+.list {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: space-evenly;
 }
